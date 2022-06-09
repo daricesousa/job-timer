@@ -1,0 +1,12 @@
+/home/darice/Documentos/Estudos/ProjetosFlutter/job_timer/build/linux/x64/debug/bundle/job_timer
+/home/darice/Documentos/Estudos/ProjetosFlutter/job_timer/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/darice/Documentos/Estudos/ProjetosFlutter/job_timer/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/darice/Documentos/Estudos/ProjetosFlutter/job_timer/build/linux/x64/debug/bundle/lib/libisar_flutter_libs_plugin.so
+/home/darice/Documentos/Estudos/ProjetosFlutter/job_timer/build/linux/x64/debug/bundle/lib/libisar.so
+/home/darice/Documentos/Estudos/ProjetosFlutter/job_timer/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/darice/Documentos/Estudos/ProjetosFlutter/job_timer/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/darice/Documentos/Estudos/ProjetosFlutter/job_timer/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/darice/Documentos/Estudos/ProjetosFlutter/job_timer/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/darice/Documentos/Estudos/ProjetosFlutter/job_timer/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/darice/Documentos/Estudos/ProjetosFlutter/job_timer/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/darice/Documentos/Estudos/ProjetosFlutter/job_timer/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
